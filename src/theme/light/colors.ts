@@ -1,0 +1,50 @@
+const lightColor = {
+	white: "#ffffff",
+	black: {
+		regular: "#000000",
+		dark: "#1A1818",
+		// 100: "#140A01",
+		// 150: "#282e36",
+		// 200: "#434343",
+		// 300: "#1A1818",
+		// 400: "#020202",
+		// 600: "#3B3A3B",
+		// 700: "#555555",
+		// 800: "#242527",
+		// 900: "#8d8d8d",
+	},
+	text: "#A3A6AC",
+	textHeading: "#434343",
+	textDark: "#020202",
+	textBold: "#666666",
+	border: "#EFEFEF",
+	primary: {
+		regular: "#E31E31",
+		hover: "#B81D2B",
+		alternate: "#FA4C4C",
+		bright: "#FC7171",
+		dark: "#d70023",
+	},
+	secondary: {
+		regular: "#0053D7",
+		dark: "#284376",
+		light: "#2D9CDB",
+	},
+	grey: {
+		50: "#f9fafb",
+		100: "#f1f5f9",
+		200: "#e5e7eb",
+		300: "#d1d5db",
+		400: "#9ca3af",
+		500: "#9ca3af",
+		600: "#4b5563",
+		700: "#374151",
+		800: "#1f2937",
+		900: "#111827",
+		950: "#030712",
+	},
+
+	// transparent: "transparent",
+};
+
+export default lightColor;
